@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Python virtual environment
+.venv/
+
+# Logs
+*.log
+
+# Runtime files
+baseline.json
+priority.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac files
+.DS_Store
+
